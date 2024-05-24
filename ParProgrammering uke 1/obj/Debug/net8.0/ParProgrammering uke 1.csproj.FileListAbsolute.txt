@@ -1,0 +1,15 @@
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\bin\Debug\net8.0\ParProgrammering uke 1.exe
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\bin\Debug\net8.0\ParProgrammering uke 1.deps.json
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\bin\Debug\net8.0\ParProgrammering uke 1.runtimeconfig.json
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\bin\Debug\net8.0\ParProgrammering uke 1.dll
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\bin\Debug\net8.0\ParProgrammering uke 1.pdb
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\obj\Debug\net8.0\ParProgrammering uke 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\obj\Debug\net8.0\ParProgrammering uke 1.AssemblyInfoInputs.cache
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\obj\Debug\net8.0\ParProgrammering uke 1.AssemblyInfo.cs
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\obj\Debug\net8.0\ParProgrammering uke 1.csproj.CoreCompileInputs.cache
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\obj\Debug\net8.0\ParProgrammering uke 1.sourcelink.json
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\obj\Debug\net8.0\ParProgrammering uke 1.dll
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\obj\Debug\net8.0\refint\ParProgrammering uke 1.dll
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\obj\Debug\net8.0\ParProgrammering uke 1.pdb
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\obj\Debug\net8.0\ParProgrammering uke 1.genruntimeconfig.cache
+C:\Users\GET Academy\Desktop\C#\ParProgrammering uke 1\ParProgrammering uke 1\obj\Debug\net8.0\ref\ParProgrammering uke 1.dll
